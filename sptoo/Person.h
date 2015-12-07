@@ -7,7 +7,6 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "NSObject+Describe.h"
 
 @interface Person : NSObject
 
